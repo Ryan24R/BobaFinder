@@ -1,0 +1,11 @@
+{
+  "Boba":
+  [
+    {"BobaName":"Tea-Do","BobaLocation":"Annandale, VA","BobaRating":"4.7 Stars","BobaDescription":"","BobaWebsite":"","BobaMenu":"","BobaAddress":"", "BobaImage": ""},
+    {"BobaName":"TeaDM Plus","BobaLocation":"Falls Church, VA","BobaRating":"4.3 Stars","BobaDescription":"","BobaWebsite":"","BobaMenu":"","BobaAddress":"", "BobaImage": ""},
+    {"BobaName":"Ku Tea Town","BobaLocation":"Woodbridge, VA","BobaRating":"4.8 Stars","BobaDescription":"","BobaWebsite":"","BobaMenu":"","BobaAddress":"", "BobaImage": ""},
+    {"BobaName":"Chunky Cup","BobaLocation":"Woodbridge, VA","BobaRating":"4.8 Stars","BobaDescription":"","BobaWebsite":"","BobaMenu":"","BobaAddress":"", "BobaImage": ""},
+    {"BobaName":"Gong Cha","BobaLocation":"Centreville, VA","BobaRating":"4.2 Stars","BobaDescription":"","BobaWebsite":"","BobaMenu":"","BobaAddress":"", "BobaImage": ""}
+  ],
+  "Status":"OK"
+}
